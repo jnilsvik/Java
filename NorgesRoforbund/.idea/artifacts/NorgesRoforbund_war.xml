@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NorgesRoforbund:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>NorgesRoforbund</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="NorgesRoforbund-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="NorgesRoforbund:war exploded" />
+    </root>
+  </artifact>
+</component>

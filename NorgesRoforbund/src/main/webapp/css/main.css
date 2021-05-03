@@ -1,0 +1,124 @@
+body {
+    background-color: #efefef;
+}
+
+.color-primary {
+    color: #21418F;
+}
+
+.color-secondary {
+    color: #e60023;
+}
+
+nav ul li a {
+    color: #21418F !important;
+    font-weight: bold;
+}
+
+.img-logo {
+    width: 150px;
+    height: 40px;
+}
+
+.img-cover {
+    width: 50px;
+    height: 25px;
+}
+
+.img-user-profile {
+    cursor: pointer;
+    height: 125px;
+    width: 125px;
+}
+
+.img-user-details {
+    height: 125px;
+    width: 125px;
+}
+
+.img-list {
+    height: 50px;
+    width: 50px;
+}
+
+.img-graph {
+    height: 250px;
+    width: 500px;
+}
+
+label {
+    color: #e60023;
+}
+
+input[type] {
+    outline: none;
+    border-radius: 25px;
+}
+
+input[type=file] {
+    cursor: pointer
+}
+
+button {
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+button:focus {
+    outline: none;
+}
+
+.button-primary {
+    color: white;
+    background-color: #21418F;
+    border: solid #21418F;
+}
+
+.button-secondary {
+    color: white;
+    background-color: #e60023;
+    border: solid #e60023;
+}
+
+td {
+    vertical-align: middle !important;
+}
+
+td a {
+    vertical-align: middle !important;
+}
+
+div {
+    border-radius: 25px;
+}
+
+.cover {
+    border: solid #21418F;
+}
+
+.content-section {
+    background: white;
+    width: 50%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    padding: 20px !important;
+    border-radius: 25px;
+}
+
+.hidden {
+    display: none !important;
+}
